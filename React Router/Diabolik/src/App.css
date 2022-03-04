@@ -1,0 +1,41 @@
+@font-face{
+  font-family: DangerDiabolik;
+  src: url(./Danger\ Diabolik.ttf);
+
+}
+* {
+  background-color: black;
+}
+.App {
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  font-family: DangerDiabolik;
+  color: rgb(180, 30, 30);
+}
+h2 {
+  font-family: DangerDiabolik;
+  font-size: 35px;
+  color: rgb(180, 30, 30);
+}
+.main-img {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+.main-img img {
+  width: 500px;
+  height: 400px;
+  object-fit: contain;
+  border-radius: 50%;
+}
+p {
+  color: rgb(180, 30, 30);
+  margin: 5px 50px;
+}
+p {
+  margin-top: 30px;
+  font-family: DangerDiabolik;
+  font-size: 25px;
+}

@@ -1,0 +1,28 @@
+body {
+    background-color: coral;
+}
+
+input {
+    width: 400px;
+    height: 20px;
+    background-color: rgb(160, 230, 233);
+}
+
+button {
+    height: 28px;
+    color: rgb(160, 230, 233);
+    background-color: black; 
+    border: 2px solid rgb(160, 230, 233);
+    margin-left: 20px;
+    border-radius: 30%;
+}
+
+p {
+   text-transform: uppercase;
+   font-style: italic;
+   font-weight: bold;
+}
+ 
+span {
+    color: red;
+}
